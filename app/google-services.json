@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "761449894426",
+    "project_id": "empower-app-d6621",
+    "storage_bucket": "empower-app-d6621.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761449894426:android:1a2ec23ca0ecb336b3f7a3",
+        "android_client_info": {
+          "package_name": "com.example.empower"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761449894426-t41eq9ka56krm240qpf5t3suliv2aca4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACL37xLpdmNJ3GHxBEa_uzA1Nx3q6Z4HQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761449894426-t41eq9ka56krm240qpf5t3suliv2aca4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
